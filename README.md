@@ -16,6 +16,9 @@ A simple Express app with Redis Caching.
 npm start
 ```
 
+- Open your browser and visit `http://localhost:5000/repos/benztranwot` to see the result. Change the username in the url to view other github users if your prefer.
+- Open the Dev Tools and switch to Network tab to see the Finish Time, Redis Caching improves the website performance when you refresh the page.
+
 ## Technologies
 
 - [Redis](https://redis.io/)
